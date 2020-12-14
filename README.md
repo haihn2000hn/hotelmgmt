@@ -1,5 +1,6 @@
 # Hotel Management Software
 
+SE05-Day7-Lab-18001037
 ### Goals
 - The application is applicable for personal computer/laptop; only receptionists, seller, hotel managers can use. 
 - Receptionists can look up room availability based on client requests, check-in for clients with confirmed reservations or proceed to book the rooms accordingly, check-out and issue receipts for clients. 
